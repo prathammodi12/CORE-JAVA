@@ -1,6 +1,7 @@
 package com.pratham.corejava.Encapsulation;
 
 public class Student {
+
     //properties/fields/instance variable and behaviour
         private String name;
         private int rollNumber;

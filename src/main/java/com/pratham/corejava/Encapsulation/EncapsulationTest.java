@@ -2,9 +2,9 @@ package com.pratham.corejava.Encapsulation;
 
 public class EncapsulationTest {
     public static void main(String[] args) {
-//        Student student = new Student();
-//        student.setAge(-18);
-//        System.out.println(student.getAge());
+        Student student = new Student();
+        student.setAge(-18);
+        System.out.println(student.getAge());
 
         BankAccount bankAccount= new BankAccount();
         bankAccount.deposit(500);
