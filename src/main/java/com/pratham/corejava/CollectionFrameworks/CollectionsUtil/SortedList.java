@@ -10,7 +10,7 @@ public class SortedList {
         List<String> l=new ArrayList<>();
 
         l.add("Z");
-        l.add("A");
+        l.add("AForLambda");
         l.add("C");
         l.add("B");
         System.out.println("Before Sorting: "+l);
