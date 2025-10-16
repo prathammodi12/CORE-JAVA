@@ -7,7 +7,7 @@ public class LinkedHashMapDemo {
     public static void main(String[] args) {
         Map<String,Integer> map= new LinkedHashMap<>();
 
-        map.put("John", 70);
+
         map.put("Pratham", 100);
 
         System.out.println(map.keySet());
