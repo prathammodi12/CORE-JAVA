@@ -1,4 +1,4 @@
-package com.pratham.corejava.Java8Features;
+package com.pratham.corejava.Java8.Java8Features;
 
 public class LambdaFeature {
     public static void main(String[] args) {
